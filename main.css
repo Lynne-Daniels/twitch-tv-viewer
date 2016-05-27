@@ -1,0 +1,18 @@
+.avatar{
+	background-color: #afb7bd;
+	background-color: yellow;
+}
+.screenname{
+	background-color: #cfd9df;
+	background-color: green;
+}
+.description{
+	background-color: #b4b9bd;
+	background-color: gold;
+}
+body{
+	background-color: #cbd6de;
+}
+div{
+	border: 3px solid #a7b8c4;
+}
